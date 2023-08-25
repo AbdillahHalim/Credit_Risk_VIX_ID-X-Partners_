@@ -1,1 +1,1 @@
-# Credit_Risk_VIX_ID-X-Partners_
+Credit risk adalah risiko bahwa pihak yang memiliki kewajiban pembayaran kepada perusahaan tidak akan memenuhi kewajibannya, sehingga perusahaan mungkin mengalami kerugian. Credit risk (Resiko kredit) dapat mempengaruhi kinerja dan kestabilan suatu perusahaan
